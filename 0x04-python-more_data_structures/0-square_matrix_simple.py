@@ -12,4 +12,4 @@ def square_matrix_simple(matrix=[]):
         return new_lst
 
     new_lst = [[i*i for i in j] for j in matrix]
-    return
+    return 
