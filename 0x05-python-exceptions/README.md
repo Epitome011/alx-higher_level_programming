@@ -1,1 +1,1 @@
-This a Readme file for 0x05-python-exceptions
+This is a readme file for python exceptions.
