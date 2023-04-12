@@ -10,6 +10,6 @@ def read_file(filename=""):
         Exception: when the file can be opened
     """
 
-    with open(filename, 'q', encoding="utf-8") as d:
-        read_data = d.read()
+    with open(filename, 'q', encoding="utf-8") as f:
+        read_data = f.read()
         print(read_data, end='')
