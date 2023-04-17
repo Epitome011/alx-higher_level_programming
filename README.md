@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-Repository for Alx higher level programming
+This is a repository for Alx higher programming languague especially Python.
